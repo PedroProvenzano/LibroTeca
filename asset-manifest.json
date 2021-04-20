@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/LibroTeca/static/js/main.ce219549.chunk.js",
+    "main.js.map": "/LibroTeca/static/js/main.ce219549.chunk.js.map",
+    "runtime-main.js": "/LibroTeca/static/js/runtime-main.4f348abc.js",
+    "runtime-main.js.map": "/LibroTeca/static/js/runtime-main.4f348abc.js.map",
+    "static/js/2.824831e3.chunk.js": "/LibroTeca/static/js/2.824831e3.chunk.js",
+    "static/js/2.824831e3.chunk.js.map": "/LibroTeca/static/js/2.824831e3.chunk.js.map",
+    "static/js/3.706c807f.chunk.js": "/LibroTeca/static/js/3.706c807f.chunk.js",
+    "static/js/3.706c807f.chunk.js.map": "/LibroTeca/static/js/3.706c807f.chunk.js.map",
+    "index.html": "/LibroTeca/index.html",
+    "static/js/2.824831e3.chunk.js.LICENSE.txt": "/LibroTeca/static/js/2.824831e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f348abc.js",
+    "static/js/2.824831e3.chunk.js",
+    "static/js/main.ce219549.chunk.js"
+  ]
+}
