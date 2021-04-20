@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/LibroTeca/static/js/main.ce219549.chunk.js",
-    "main.js.map": "/LibroTeca/static/js/main.ce219549.chunk.js.map",
+    "main.js": "/LibroTeca/static/js/main.957acca3.chunk.js",
+    "main.js.map": "/LibroTeca/static/js/main.957acca3.chunk.js.map",
     "runtime-main.js": "/LibroTeca/static/js/runtime-main.4f348abc.js",
     "runtime-main.js.map": "/LibroTeca/static/js/runtime-main.4f348abc.js.map",
     "static/js/2.824831e3.chunk.js": "/LibroTeca/static/js/2.824831e3.chunk.js",
@@ -14,6 +14,6 @@
   "entrypoints": [
     "static/js/runtime-main.4f348abc.js",
     "static/js/2.824831e3.chunk.js",
-    "static/js/main.ce219549.chunk.js"
+    "static/js/main.957acca3.chunk.js"
   ]
 }
